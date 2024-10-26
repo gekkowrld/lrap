@@ -5,7 +5,7 @@ Given input, it produces an estimate of what the injury severity will be.
 
 An example of a crash prediction grash is:
 
-[Prediction vs Actual values](./graph.png)
+![Prediction vs Actual values](./graph.png)
 
 ## How to run
 
